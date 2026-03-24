@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Username": "alice",
+    "Email": "alice@example.com",
+    "PasswordHash": "hashedpassword1",
+    "Role": "Admin"
+  },
+  {
+    "Username": "bob",
+    "Email": "bob@example.com",
+    "PasswordHash": "hashedpassword2",
+    "Role": "Editor"
+  },
+  {
+    "Username": "charlie",
+    "Email": "charlie@example.com",
+    "PasswordHash": "hashedpassword3",
+    "Role": "Viewer"
+  }
+]

@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Name": "Project Alpha",
+    "Description": "First project",
+    "OwnerUsername": "alice",
+    "MembersUsernames": [ "alice", "bob" ]
+  },
+  {
+    "Name": "Project Beta",
+    "Description": "Second project",
+    "OwnerUsername": "bob",
+    "MembersUsernames": [ "bob", "charlie" ]
+  }
+]

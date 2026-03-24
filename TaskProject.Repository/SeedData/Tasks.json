@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Title": "Setup Database",
+    "Description": "Create initial database schema",
+    "Status": "ToDo",
+    "Priority": "High",
+    "ProjectName": "Project Alpha",
+    "AssignedToUsername": "alice"
+  },
+  {
+    "Title": "Create API Endpoints",
+    "Description": "Build REST API for tasks",
+    "Status": "InProgress",
+    "Priority": "Medium",
+    "ProjectName": "Project Alpha",
+    "AssignedToUsername": "bob"
+  },
+  {
+    "Title": "Frontend UI",
+    "Description": "Design dashboard and forms",
+    "Status": "ToDo",
+    "Priority": "Medium",
+    "ProjectName": "Project Beta",
+    "AssignedToUsername": "charlie"
+  }
+]
